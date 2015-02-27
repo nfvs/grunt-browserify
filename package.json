@@ -35,7 +35,7 @@
     "glob": "^4.4.0",
     "lodash": "^3.3.0",
     "resolve": "^1.1.4",
-    "watchify": "^2.4.0"
+    "watchify": "git://github.com/sagansystems/watchify#chokidar"
   },
   "devDependencies": {
     "grunt": "^0.4.0",
